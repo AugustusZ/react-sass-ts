@@ -7,7 +7,7 @@ require(['esri/Map', 'esri/views/MapView', 'dojo/domReady!'], function(
   });
 
   var view = new MapView({
-    container: 'mapView',
+    container: 'viewDiv',
     map: map,
     zoom: 4,
     center: [15, 65] // longitude, latitude

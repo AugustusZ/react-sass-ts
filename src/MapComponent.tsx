@@ -6,7 +6,7 @@ class MapComponent extends React.Component {
     return (
       <div className="MapComponent">
         <p>Map Component</p>
-        <div id="mapView" />
+        <div id="viewDiv" />
       </div>
     );
   }

@@ -7,6 +7,14 @@
     "@types/node": "^8.0.24",
     "@types/react": "^16.0.2",
     "@types/react-dom": "^15.5.3",
+    "arcgis-js-api": "^4.4.0",
+    "dgrid": "Esri/dgrid#v1.1.0/esri-3.20.0",
+    "dijit": "Esri/dijit#v1.12.1/esri-3.20.0",
+    "dojo": "Esri/dojo#v1.12.1/esri-3.20.0",
+    "dojo-dstore": "^1.1.1",
+    "dojo-util": "^1.12.2",
+    "dojox": "Esri/dojox#v1.12.1/esri-3.20.0",
+    "moment": "2.17.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts-ts": "2.6.0"
@@ -23,6 +31,7 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
+    "@types/arcgis-js-api": "^4.4.0",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "^4.0.2"
   }
